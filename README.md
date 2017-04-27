@@ -1,6 +1,6 @@
 # npmtest-cssshrink
 
-#### test coverage for  [cssshrink (v0.0.5)](https://github.com/stoyan/cssshrink)  [![npm package](https://img.shields.io/npm/v/npmtest-cssshrink.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cssshrink) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cssshrink.svg)](https://travis-ci.org/npmtest/node-npmtest-cssshrink)
+#### basic test coverage for  [cssshrink (v0.0.5)](https://github.com/stoyan/cssshrink)  [![npm package](https://img.shields.io/npm/v/npmtest-cssshrink.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cssshrink) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cssshrink.svg)](https://travis-ci.org/npmtest/node-npmtest-cssshrink)
 
 #### CSS minifier
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-cssshrink/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-cssshrink/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-cssshrink/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-cssshrink/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cssshrink/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cssshrink/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-cssshrink/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-cssshrink/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cssshrink/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cssshrink/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-cssshrink/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-cssshrink/build/coverage.html/index.html)
 
